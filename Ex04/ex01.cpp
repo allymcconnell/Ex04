@@ -8,24 +8,12 @@
 
 #include <iostream>
 using namespace std;
-
-int ex01();
-int ex02();
-int ex03();
-int ex04();
-int ex05();
-
-int main()
-{
-    ex01();
-    ex02();
-    ex03();
-    ex04();
-    ex05();
-}
+#include <string>
 
 //Exercise 1
-int ex01()
+
+int main()
+
 {
     //declare variable
     int i, j, arraySize, Sum = 0, count = 0, value;
@@ -65,8 +53,3 @@ int ex01()
     return 0;
 }
 
-//Exercise 2
-int ex02()
-{
-    
-}
