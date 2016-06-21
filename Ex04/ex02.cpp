@@ -10,6 +10,8 @@
 using namespace std;
 #include <string>
 
+//PT -- you have the right general idea here, but the code won't compile. It looks like you turned it in before you were complete.
+// 12/20
 
 //Exercise 2
 
