@@ -6,6 +6,10 @@
 //  Copyright © 2016 Ally McConnell. All rights reserved.
 //
 
+//PT -- a lot of good work here, but the code won't compile. Your #include code and your #ifndef isn't quite right,
+//      and you have extra }'s
+// 15/20
+
 #ifndef Course_h
 #define Couse_h
 
