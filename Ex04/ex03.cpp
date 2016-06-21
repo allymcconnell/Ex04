@@ -10,7 +10,8 @@
 using namespace std;
 #include <string>
 
-
+//PT -- where is this implemented?
+//  15/20
 int minIndex(double *list, int size);
 
 int main()
